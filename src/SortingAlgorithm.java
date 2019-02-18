@@ -3,10 +3,10 @@
 /**
  * SortingAlgorithm is just a decorator for sorting.
  * (A real implementation would require a comparator and sort any object using a template.)
- * @author dgbrizan
  *
+ * @author dgbrizan
  */
 public interface SortingAlgorithm {
 
-	void sort(int [] a);
+    void sort(int[] a);
 }
